@@ -1,0 +1,4 @@
+# Add VSCode extensions for Java development
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
